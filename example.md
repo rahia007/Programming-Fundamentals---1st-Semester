@@ -1,0 +1,21 @@
+# HEADING 1
+## HEADING 2
+### HEADING 3
+#### HEADING 4
+##### HEADING 5
+###### HEADING 6
+
+*ITALIC*  \
+**BOLD**
+
+* ORDERED LIST 1
+* ORDERED LIST 2
+
+   1. ORDERED LIST
+   2. ORDERED LIST
+
+  ~~STRIKETHROUGH~~
+
+  -[X] MARKED   \
+  [] NOT MARKED
+  
