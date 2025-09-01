@@ -16,6 +16,10 @@
 
   ~~STRIKETHROUGH~~
 
-  -[X] MARKED   \
-  [] NOT MARKED
+  - [X] MARKED
+  - [ ] NOT MARKED \
+
+  
+ ![cat image]([<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/38ec9330-f332-481c-9d1c-7adb98663007" />](https://media.sciencephoto.com/c0/48/67/35/c0486735-800px-wm.jpg)
+   
   
